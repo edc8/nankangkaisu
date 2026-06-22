@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://edc8.github.io/nankangkaisu/sitemap.xml
